@@ -1,1 +1,1 @@
-# heart-disease-detection
+This project uses a logistic regression model to predict the presence of heart disease based on medical data. The dataset includes features like age, cholesterol levels, blood pressure, and other cardiovascular indicators.
